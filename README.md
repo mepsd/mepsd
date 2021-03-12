@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=mepsd)
 
 
-<h2 align="center">My name is Viral Vaghela. 👋🤓</h2>
+<h2 align="center">My name is Paras Suthar Darji. 👋🤓</h2>
 
 <p align='center'>
 <a href="https://dev.to/mepsd"><img height="30" src="icons/dev.png?raw=true"></a>&nbsp;&nbsp;
