@@ -29,9 +29,3 @@ You can checkout my portfolio <a href="https://mepsd.me">mepsd.me</a>
 - [Website](https://mepsd.me) 😏🔗
 - [Dev.to](https://dev.to/mepsd) 🔨✒
 - [Stackoverflow](https://stackoverflow.com/users/9164957/paras-suthar-darji) 💌
-
-## Stargazers
-
-[![Stargazers repo roster for @mepsd/mepsd](https://reporoster.com/stars/mepsd/mepsd)](https://github.com/mepsd/mepsd/stargazers)
-
-[//]: #"![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=4f0pk3xk5utgsr6kzjpcpcf9k&count=1)"
